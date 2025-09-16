@@ -42,4 +42,9 @@ During the analysis, the following key questions were addressed:
   - Split data into features (X) and target (y).
   - Ensured all features were numeric and scaled where necessary.
   - Saved cleaned dataset for future predictive modeling.
+ 
+## Dashboard
+
+- <a href = <img width="1484" height="1180" alt="dashboard_image_Titanic" src="https://github.com/user-attachments/assets/85f44fe5-a999-40da-9686-a57287525d69" />
+
 
