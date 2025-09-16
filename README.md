@@ -14,3 +14,32 @@ During the analysis, the following key questions were addressed:
 - What role did family size have on survival?
 - How did fare values vary across different survival outcomes?
 
+## Process
+
+- Data Import & Inspection
+  - Loaded the dataset (train.csv) into pandas.
+  - Inspected shape, columns, datatypes, and missing values.
+  - Dropped irrelevant identifiers such as PassengerId.
+
+- Data Cleaning
+  - Handled missing values in Age and Embarked columns.
+  - Checked for duplicate records and outliers using boxplots and violin plots.
+  - Converted categorical variables (Sex, Embarked) into usable formats.
+
+- Exploratory Data Analysis (EDA)
+  - Univariate analysis: distribution of Age, Fare, Pclass, Survived.
+  - Bivariate analysis: relationship between survival and Sex, Pclass, Family Size.
+  - Multivariate analysis: interaction of multiple factors on survival rates.
+  - Visualizations created using Matplotlib and Seaborn.
+
+- Feature Engineering
+  - Created Family Size feature = SibSp + Parch + 1.
+  - Grouped age into bins (Children, Teens, Adults, Seniors).
+  - Transformed skewed variables (like Fare) for better distribution.
+  - Encoded categorical features (Sex, Embarked) for model readiness.
+
+- Model Readiness
+  - Split data into features (X) and target (y).
+  - Ensured all features were numeric and scaled where necessary.
+  - Saved cleaned dataset for future predictive modeling.
+
