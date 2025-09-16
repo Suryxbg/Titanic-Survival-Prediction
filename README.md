@@ -5,3 +5,12 @@ The goal of this project is to perform exploratory data analysis (EDA) and featu
 
 ## Dataset Used
 - <a href="https://github.com/Suryxbg/Titanic-Survival-Prediction/blob/main/train.csv">Dataset</a>
+
+## Key Questions (KPIs)
+During the analysis, the following key questions were addressed:
+What percentage of passengers survived overall?
+How did gender and class (Pclass) impact survival chances?
+Did age distribution play a role in survival rates?
+What role did family size (SibSp + Parch) have on survival?
+How did fare values vary across different survival outcomes?
+
