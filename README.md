@@ -45,6 +45,23 @@ During the analysis, the following key questions were addressed:
  
 ## Dashboard
 
-- <a href = "<img width="1484" height="1180" alt="dashboard_image_Titanic" src="https://github.com/user-attachments/assets/85f44fe5-a999-40da-9686-a57287525d69"/>"
+<img width="1484" height="1180" alt="dashboard_image_Titanic" src="https://github.com/user-attachments/assets/fd17b99a-acf1-45e4-8f2c-382ea728320c" />
+
+
+## Project Insights 
+
+- Gender effect: Female passengers had significantly higher survival rates.
+- Class effect: First-class passengers had better chances of survival compared to third class.
+- Age distribution: Children had slightly better survival rates than older passengers.
+- Fare: Higher fares correlated with higher survival probability.
+- Family size: Passengers with small family groups had better survival chances compared to those traveling alone or with very large families.
+
+## Conclusion 
+
+- The survival patterns suggest that socio-economic status and gender biases strongly influenced rescue priorities during the Titanic disaster, with women and higher-class passengers prioritized.
+- The role of fare highlights that economic inequality was indirectly linked to survival chances, as wealthier passengers were often placed in safer areas of the ship.
+- Family size analysis shows a nuanced outcome: moderate family groups had support advantages, whereas being alone or in a very large family reduced survival probability.
+- Collectively, these findings indicate that survival was less about random chance and more about social structures (class, wealth, and gender norms) that governed evacuation practices.
+
 
 
