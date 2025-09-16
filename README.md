@@ -4,7 +4,7 @@
 The goal of this project is to perform exploratory data analysis (EDA) and feature engineering on the Titanic dataset. The main objective is to uncover patterns and relationships between passenger attributes (age, sex, class, etc.) and survival outcomes, which can later be used for predictive modeling.
 
 ## Dataset Used
-- <a href="https://github.com/Suryxbg/Titanic-Survival-Prediction/blob/main/train.csv">Dataset</a>
+- <a href="https://github.com/Suryxbg/Titanic-Survival-Prediction/blob/main/train.csv">Titanic_Dataset</a>
 
 ## Key Questions (KPIs)
 During the analysis, the following key questions were addressed:
@@ -17,7 +17,7 @@ During the analysis, the following key questions were addressed:
 ## Process
 
 - Data Import & Inspection
-  - Loaded the dataset (train.csv) into pandas.
+  - Loaded the dataset into pandas.
   - Inspected shape, columns, datatypes, and missing values.
   - Dropped irrelevant identifiers such as PassengerId.
 
